@@ -1,0 +1,19 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Logs & temp
+*.log
+tmp/
+node_modules/
